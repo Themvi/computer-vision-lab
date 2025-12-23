@@ -1,5 +1,4 @@
-Objective
-
+# Objective
 The objective of this laboratory is to understand and implement fundamental and advanced computer vision techniques using Python and OpenCV, including image processing, feature extraction, segmentation, and object detection.
 | Experiment No. | Title                                                  |
 | -------------- | ------------------------------------------------------ |
